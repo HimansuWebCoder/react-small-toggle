@@ -10,6 +10,9 @@ export default function App() {
     <div className="container">
       <button onClick={toggle}>Change color</button>
       <p style={{color: color}}>I am React.js Developer</p>
+      <p style={{color: color}}>I am React.js Developer</p>
+      <p style={{color: color}}>I am React.js Developer</p>
+      <p style={{color: color}}>I am React.js Developer</p>
     </div>
   )
 }
