@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.fabe7fc3.css","mappings":"AAAA,WAGC,qBAAuB,CAGvB,cAAe,CAJf,YAAa,CAEb,WAAY,CACZ,iBAAkB,CAJlB,WAMD","sources":["App.css"],"sourcesContent":[".container {\r\n\twidth: 200px;\r\n\theight: 200px;\r\n\tbackground-color:yellow;\r\n\tmargin: auto;\r\n\ttext-align: center;\r\n\tfont-size: 30px;\r\n}"],"names":[],"sourceRoot":""}
