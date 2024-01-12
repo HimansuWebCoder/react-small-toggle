@@ -4,7 +4,7 @@ export default function App() {
   const [color, setColor] = useState("red");
 
   function toggle() {
-    setColor(prev => prev === "red" ? "blue" : "red");
+    setColor(prev => prev === "red" ? "green" : "red");
   }
   return (
     <div className="container">
